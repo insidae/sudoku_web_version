@@ -10,3 +10,9 @@ I, [2014-03-17T12:22:51.858198 #1546]  INFO -- : 0:  shotgun (0.9) from /Users/M
 I, [2014-03-17T12:22:51.858725 #1546]  INFO -- : 0:  tilt (1.4.1) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
 I, [2014-03-17T12:22:51.859119 #1546]  INFO -- : 0:  sinatra (1.4.4) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-03-17T12:22:51.859491 #1546]  INFO -- : 0:  bundler (1.5.1) from /Users/Matt/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-18T11:20:04.133361 #825]  INFO -- : 0:  rack (1.5.2) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-18T11:20:04.133783 #825]  INFO -- : 0:  rack-protection (1.5.2) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-18T11:20:04.134060 #825]  INFO -- : 0:  shotgun (0.9) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-18T11:20:04.134368 #825]  INFO -- : 0:  tilt (1.4.1) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-18T11:20:04.134624 #825]  INFO -- : 0:  sinatra (1.4.4) from /Users/Matt/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-18T11:20:04.134899 #825]  INFO -- : 0:  bundler (1.5.1) from /Users/Matt/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
